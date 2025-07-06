@@ -1,1 +1,3 @@
 This is the http server, and the first interceptor example
+
+One has a race condition, the other uses an atomic boolean and a channel
